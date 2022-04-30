@@ -3,11 +3,11 @@ layout: page
 full_logo: true
 title: 
 subtitle: 
-description: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+description: 
 sitemap:
   priority: 1.0
 ---
-<p class="describe-text">edgezero ai provides solutions in tinyML acoustic and vision classifiers, millimeter wave radar </p>
+<p class="describe-text">EdgeZero AI provides battery powered solutions in efficient tinyML acoustic and vision classifiers, millimeter wave radar </p>
 <br>
 <br>
 <br>

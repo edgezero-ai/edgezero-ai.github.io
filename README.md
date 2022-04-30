@@ -1,1 +1,1 @@
-Website for edgezero ai
+Website for EdgeZero AI

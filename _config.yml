@@ -1,5 +1,5 @@
-title: edgezero ai # Shown in header on pages with full_logo: true
-short_logo: edgezero ai # Shown in header on all pages by default unless full_logo: true is set
+title: EdgeZero AI # Shown in header on pages with full_logo: true
+short_logo: EdgeZero AI # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
 
 markdown: kramdown
